@@ -8,7 +8,7 @@
 
 #include "mbed.h"
 #include "VL53L0X.h"
-// Endereções
+// Endereços
 #define range1_addr (0x56)
 #define range2_addr (0x60)
 // Pinos de reset 
