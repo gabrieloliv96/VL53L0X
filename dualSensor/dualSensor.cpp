@@ -2,6 +2,7 @@
  *   Q0000
  *   AUTOR:   Gabriel Oliveira
  *   SKETCH:  Módulo do sensor duplo VL53L0X para BluePill(Nucleo STM32F103)
+ *   OBJETIVO: Monitoramento de distancias
  *   DATA:    26/02/2020
 */
 
