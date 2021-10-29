@@ -63,7 +63,9 @@ int main()
     int status3;
     int status4;
     
-    
+
+
+    // Printando reação do sensor ao ambiente
     while(1){
         
         status1 = range1.get_distance(&distance1);
