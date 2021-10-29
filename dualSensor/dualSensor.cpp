@@ -52,7 +52,7 @@ int main()
     int status1;
     int status2;
     
-    
+    // Printando saída de resposta do sensor
     while(1){
         
         status1 = range1.get_distance(&distance1);
